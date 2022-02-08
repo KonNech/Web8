@@ -11,10 +11,7 @@ button
     color: #FFFFFF;
 }
     @media (max-width: 992px) {
-	.social-icon-link {
+	body{
 		margin-right: 15px;
 		margin-bottom: 15px;
 	}
-div{
-  display: block;
-}
