@@ -10,7 +10,7 @@ button
 {
     color: #FFFFFF;
 }
-    @media (max-width: 720px) {
+    @media (max-width: 480px) {
 	.social-icon-link {
 		margin-right: 15px;
 		margin-bottom: 15px;
