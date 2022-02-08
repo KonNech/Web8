@@ -10,4 +10,8 @@ button
 {
     color: #FFFFFF;
 }
-    
+    @media (max-width: 1170px) {
+	.social-icon-link {
+		margin-right: 15px;
+		margin-bottom: 15px;
+	}
